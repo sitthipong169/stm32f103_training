@@ -1,1 +1,1 @@
-# stm32f103_training
+# stm32f103_smallModule
